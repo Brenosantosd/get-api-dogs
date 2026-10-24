@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/GET-%20Api%20dos%20dogs/static/css/main.1abeb3db.css",
-    "main.js": "/GET-%20Api%20dos%20dogs/static/js/main.713627ec.js",
-    "index.html": "/GET-%20Api%20dos%20dogs/index.html",
-    "main.1abeb3db.css.map": "/GET-%20Api%20dos%20dogs/static/css/main.1abeb3db.css.map",
-    "main.713627ec.js.map": "/GET-%20Api%20dos%20dogs/static/js/main.713627ec.js.map"
+    "main.css": "/get-api-dogs/static/css/main.1abeb3db.css",
+    "main.js": "/get-api-dogs/static/js/main.713627ec.js",
+    "index.html": "/get-api-dogs/index.html",
+    "main.1abeb3db.css.map": "/get-api-dogs/static/css/main.1abeb3db.css.map",
+    "main.713627ec.js.map": "/get-api-dogs/static/js/main.713627ec.js.map"
   },
   "entrypoints": [
     "static/css/main.1abeb3db.css",
